@@ -1,5 +1,5 @@
+#To import Data, use the path of the BANK LOAN.csv available in the Data folder
 bank_data=read.csv('/Users/pratikeshsingh/Desktop/R git/BANK LOAN.csv')
-#use the path of the BANK LOAN.csv available in this folder
 str(bank_data)
 names(bank_data)
 summary(bank_data)
