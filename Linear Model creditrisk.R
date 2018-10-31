@@ -1,3 +1,4 @@
+#Credit Risk Data.csv is available in the Data folder. Change the below path to the path where you download the file
 credit = read.csv('/Users/pratikeshsingh/Desktop/R git/Credit Risk Data.csv', header = TRUE)
 credit
 str(credit)
